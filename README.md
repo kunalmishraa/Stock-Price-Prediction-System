@@ -27,3 +27,15 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/yourusername/stock-price-prediction.git
    cd stock-price-prediction
+   python -m venv venv
+   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   pip install -r requirements.txt
+   python app.py
+ 
+### Additional Notes
+- Don't forget to replace `https://github.com/yourusername/stock-price-prediction.git` with the actual URL of your GitHub repository.
+- You can also add sections for **Screenshots** or **Demo** if you want to showcase how your application looks and works.
+
+Let me know if you need any more changes or additions!
+
+
